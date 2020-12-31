@@ -2,3 +2,4 @@ tmp/todo.txt
 tmp/*
 *.log
 *.xml
+*.txt
